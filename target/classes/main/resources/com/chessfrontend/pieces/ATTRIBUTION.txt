@@ -1,0 +1,7 @@
+Chess piece SVG artwork: Cburnett
+Source: https://commons.wikimedia.org/wiki/File:Chess_klt45.svg
+License options supplied by the author include the 3-clause BSD License,
+CC BY-SA 3.0, GPL, and GFDL. This project uses the 3-clause BSD option.
+
+The files in this folder are the standard light and dark chess-piece set
+from Wikimedia Commons, retained as SVG assets and rendered by the JavaFX UI.
